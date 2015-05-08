@@ -1,0 +1,4 @@
+[submodule "At.js"]
+  path = At.js
+  url = https://github.com/ichord/At.js.git
+  branch = master
