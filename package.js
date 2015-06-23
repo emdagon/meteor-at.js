@@ -1,7 +1,7 @@
 Package.describe({
   name: "emdagon:at.js",
   summary: "Meteor package for At.js",
-  version: "0.0.1",
+  version: "0.0.2",
   git: "https://github.com/emdagon/meteor-at.js"
 });
 
