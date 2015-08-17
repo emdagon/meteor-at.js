@@ -1,6 +1,6 @@
 Package.describe({
   name: "emdagon:at.js",
-  summary: "Meteor package for At.js",
+  summary: "At.js - Add GitHub-like autocomplete mentions",
   version: "0.0.2",
   git: "https://github.com/emdagon/meteor-at.js"
 });
